@@ -10,7 +10,7 @@ Bei mehr Stellen siehe mein WinForm Programm.
 **Motor des Programms ist die statische ModPow() Methode von der Klasse BigInteger.**
 
 Ps: Basis eingeben von 2 Angefangen, je höher desto sicherer Prim aber dauert auch länger.
-So ab eingabe 10 sind es mit hoher Wahrscheinlichkeit Primzahlen.
+So ab Eingabe 10 sind es mit hoher Wahrscheinlichkeit Primzahlen.
 
 Für Mathematiker:
 ```
