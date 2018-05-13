@@ -24,6 +24,7 @@ namespace Program_Fermat
             BigInteger ende = 0;
             int letzteBasis = 2;
 
+            Console.Write("\n   Program Fermat\n\n");
             Console.Write("\n\n   Primzahlenauflisten nach Fermat!\n\n");
             Console.Write("\n   Untere Grenze Eingeben? ");
             anfang = BigInteger.Parse(Console.ReadLine());
