@@ -12,6 +12,8 @@ Bei mehr Stellen siehe mein WinForm Programm. [link](https://github.com/sauterni
 Ps: Basis eingeben von 2 Angefangen, je höher desto sicherer Prim aber dauert auch länger.
 So ab Eingabe 10 sind es mit hoher Wahrscheinlichkeit Primzahlen.
 
+[Website for primes ... up to 16 digits](https://sauternic.github.io/JavaScript_Primzahlen_Auflisten/)
+
 Für Mathematiker:
 ```
 a = Basis
